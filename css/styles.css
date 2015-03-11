@@ -5,3 +5,22 @@
 	max-width: 290px;
 	padding-left: 0px;
 }
+.visit-title{
+	background: #e4e4e4; 
+	padding: .1rem;
+}
+.visit-title h6{
+	 color: #c8b92d;  
+	 padding-left: 1rem;
+}
+.visit-card{
+	background: #ffffff; 
+	padding: 1rem;
+}
+.header-title{
+	max-height: 200px; 
+	padding: 2rem;
+}
+.header-photo{
+	height: 280px;
+}
