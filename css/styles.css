@@ -1,7 +1,96 @@
 /* Styles Under Here */
 
+.header-title{
+	max-height: 200px; 
+	padding: 2rem;
+}
+.header-photo{
+	height: 280px;
+}
+.grey-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+}
+.grey-banner h6{
+	 color: #c8b92d;  
+	 margin-top: -0.6rem;
+}
+
 /* Flatfile Style */
 .side-bar{
 	max-width: 290px;
 	padding-left: 0px;
+	background: #e4e4e4;
+}
+.filter-banner{
+	background: #dbd5e0
+}
+.results-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+}
+.results-banner h6{
+	 text-transform: uppercase; 
+	 margin-top: -0.6rem
+}
+.side-bar h4{
+	 margin-top: 3rem
+}
+
+/* Visit Style */
+
+.visit-title{
+	background: #e4e4e4; 
+	padding: .1rem;
+}
+.visit-title h6{
+	 color: #c8b92d;  
+	 padding-left: 1rem;
+}
+.visit-card{
+	background: #ffffff; 
+	padding: 1rem;
+}
+
+
+/* Exhibition Style */
+
+.exhib-header{
+	width: 500px;
+	max-height: 100%;
+}
+.side-bar-right{
+	background: white;
+}
+.exhib-title{
+	background: #ffffff; 
+	padding: .1rem;
+}
+.exhib-title h6{
+	color: #c8b92d;  
+	padding-left: 1rem;
+}
+.exhib-current img{
+	 width: 760px;
+}
+.exhib-arch-up img{
+	 width: 360px; 
+	 height: 280px;
+}
+.exhib-up-card{
+	background: white;
+}
+.exhib-up-card .exhib-title{
+	padding-left: 1rem;
+
+}
+.exhib-up-card img{
+	width: 360px;
+	max-height: 100%;
+}
+.accordian{
+	padding: 0;
+}
+.archive-bar{
+	background: white;
 }
