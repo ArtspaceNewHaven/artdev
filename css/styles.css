@@ -15,6 +15,10 @@
 	 color: #c8b92d;  
 	 margin-top: -0.6rem;
 }
+.white-box{
+	background: white;
+	padding: 1rem;
+}
 
 /* Flatfile Style */
 .side-bar{
@@ -77,9 +81,7 @@
 	 width: 360px; 
 	 height: 280px;
 }
-.exhib-up-card{
-	background: white;
-}
+
 .exhib-up-card .exhib-title{
 	padding-left: 1rem;
 
@@ -95,6 +97,7 @@
 .archive-bar{
 	background: white;
 }
+<<<<<<< HEAD
 =======
 .on-view{
 
@@ -110,3 +113,11 @@
 	margin-bottom: 0;
 }
 >>>>>>> Stashed changes
+=======
+
+/* Artist Directory Style */
+
+
+
+
+>>>>>>> 43a0392aa756e1dea6f101fe28d70970cbf01a76
