@@ -15,10 +15,13 @@
 	 color: #c8b92d;  
 	 margin-top: -0.6rem;
 }
+<<<<<<< HEAD
+=======
 .white-box{
 	background: white;
 	padding: 1rem;
 }
+>>>>>>> master
 
 /* Flatfile Style */
 .side-bar{
@@ -28,6 +31,8 @@
 }
 .filter-banner{
 	background: #dbd5e0
+<<<<<<< HEAD
+<<<<<<< HEAD
 }
 .results-banner{
 	background: #e4e4e4; 
@@ -40,6 +45,25 @@
 .side-bar h4{
 	 margin-top: 3rem
 }
+=======
+=======
+>>>>>>> master
+}
+.results-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+}
+.results-banner h6{
+	 text-transform: uppercase; 
+	 margin-top: -0.6rem
+}
+.side-bar h4{
+	 margin-top: 3rem
+}
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> master
 
 /* Visit Style */
 
@@ -63,8 +87,9 @@
 	width: 500px;
 	max-height: 100%;
 }
-.side-bar-right{
+.exhib-info{
 	background: white;
+	padding: 1rem;
 }
 .exhib-title{
 	background: #ffffff; 
@@ -93,11 +118,45 @@
 .accordian{
 	padding: 0;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+.grey-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+	height: 2.3rem;
+}
+.grey-banner h6{
+	color: #c8b92d;  
+	margin-top: -0.6rem;
+}
+.side-bar{
+	background: #e4e4e4;
+}
+.archive-bar{
+	background: white;
+}
+.archive-bar h6{
+	padding-left: 0;
+}
+
+
+
+
+
+=======
+=======
+>>>>>>> master
+=======
+>>>>>>> master
 <<<<<<< Updated upstream
 .archive-bar{
 	background: white;
 }
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 =======
 .on-view{
 
@@ -113,6 +172,12 @@
 	margin-bottom: 0;
 }
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> master
+=======
 =======
 
 /* Artist Directory Style */
@@ -121,3 +186,4 @@
 
 
 >>>>>>> 43a0392aa756e1dea6f101fe28d70970cbf01a76
+>>>>>>> master
