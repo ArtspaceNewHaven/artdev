@@ -24,6 +24,7 @@
 }
 .filter-banner{
 	background: #dbd5e0
+<<<<<<< HEAD
 }
 .results-banner{
 	background: #e4e4e4; 
@@ -36,6 +37,20 @@
 .side-bar h4{
 	 margin-top: 3rem
 }
+=======
+}
+.results-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+}
+.results-banner h6{
+	 text-transform: uppercase; 
+	 margin-top: -0.6rem
+}
+.side-bar h4{
+	 margin-top: 3rem
+}
+>>>>>>> master
 
 /* Visit Style */
 
@@ -93,6 +108,7 @@
 	padding: 0;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .grey-banner{
 	background: #e4e4e4; 
 	padding: 1rem;
@@ -117,6 +133,8 @@
 
 
 =======
+=======
+>>>>>>> master
 <<<<<<< Updated upstream
 .archive-bar{
 	background: white;
@@ -136,4 +154,7 @@
 	margin-bottom: 0;
 }
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
