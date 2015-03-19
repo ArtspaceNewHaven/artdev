@@ -91,6 +91,22 @@
 .accordian{
 	padding: 0;
 }
+<<<<<<< Updated upstream
 .archive-bar{
 	background: white;
 }
+=======
+.on-view{
+
+}
+.view-card{
+
+}
+.view-card h6{
+	background: #fff;
+	padding: .1rem;
+	color: #c8b92d;  
+	padding-left: 1rem;
+	margin-bottom: 0;
+}
+>>>>>>> Stashed changes
