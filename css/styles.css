@@ -16,10 +16,12 @@
 	 color: #c8b92d;  
 	 margin-top: -0.6rem;
 }
+
 .white-box{
 	background: white;
 	padding: 1rem;
 }
+
 .subtitle{
 	text-transform: uppercase;
 }
@@ -40,6 +42,7 @@
 }
 
 
+
 /* Flatfile Style */
 .side-bar{
 	max-width: 290px;
@@ -48,6 +51,7 @@
 }
 .filter-banner{
 	background: #dbd5e0
+
 }
 .results-banner{
 	background: #e4e4e4; 
@@ -60,6 +64,20 @@
 .side-bar h4{
 	 margin-top: 3rem
 }
+
+}
+.results-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+}
+.results-banner h6{
+	 text-transform: uppercase; 
+	 margin-top: -0.6rem
+}
+.side-bar h4{
+	 margin-top: 3rem
+}
+
 
 /* Visit Style */
 
@@ -83,8 +101,9 @@
 	width: 500px;
 	max-height: 100%;
 }
-.side-bar-right{
+.exhib-info{
 	background: white;
+	padding: 1rem;
 }
 .exhib-title{
 	background: #ffffff; 
@@ -113,9 +132,45 @@
 .accordian{
 	padding: 0;
 }
+
+.grey-banner{
+	background: #e4e4e4; 
+	padding: 1rem;
+	height: 2.3rem;
+}
+.grey-banner h6{
+	color: #c8b92d;  
+	margin-top: -0.6rem;
+}
+.side-bar{
+	background: #e4e4e4;
+}
 .archive-bar{
 	background: white;
 }
+.archive-bar h6{
+	padding-left: 0;
+}
+
+
+.archive-bar{
+	background: white;
+}
+
+.on-view{
+
+}
+.view-card{
+
+}
+.view-card h6{
+	background: #fff;
+	padding: .1rem;
+	color: #c8b92d;  
+	padding-left: 1rem;
+	margin-bottom: 0;
+}
+
 
 /* Artist Directory Style */
 
@@ -150,3 +205,4 @@
 .opps-header{
 	color:#c8b92d;
 }
+
