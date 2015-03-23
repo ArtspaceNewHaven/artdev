@@ -9,7 +9,8 @@
 }
 .grey-banner{
 	background: #e4e4e4; 
-	padding: 1rem;
+	padding: .1rem;
+	padding-left: 1rem;
 }
 .grey-banner h6{
 	 color: #c8b92d;  
@@ -19,6 +20,25 @@
 	background: white;
 	padding: 1rem;
 }
+.subtitle{
+	text-transform: uppercase;
+}
+
+/* Homepage Style */
+.main-header{
+	width: 100%;
+	height: 35rem;
+}
+.main-header h1{
+	padding-top: 20rem;
+	padding-left: 4rem;
+}
+.homepage-box{
+	background: white;
+	padding: 1rem;
+	margin-bottom: 30px;
+}
+
 
 /* Flatfile Style */
 .side-bar{
@@ -101,4 +121,32 @@
 
 
 
+/* Calendar Style */
+.calendar-header{
+	color: #c8b92d;
+	padding: 1.5rem;
+}
+.calendar-box{
+	background: white;
+	padding: 1rem;
+	margin: 1rem;
+}
+.thumbnail{
+	width: 93px;
+	height: 93px;
+}
 
+
+/* Opportunities Style */
+.opps-info{
+	margin-top: 3rem;
+	margin-left: 14rem;
+}
+.opps-box{
+	background: white;
+	padding: 1rem;
+	margin-bottom: 1rem;
+}
+.opps-header{
+	color:#c8b92d;
+}
